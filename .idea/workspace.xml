@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76390abd-88dc-4e32-8779-3edfb9e17d0f" name="Default Changelist" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Ionicons28b5.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Ionicons28b5.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Ionicons28b5.ttf.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Ionicons28b5.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Material-Design-Iconic-Fontd1f1.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Material-Design-Iconic-Fontd1f1.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Material-Design-Iconic-Fontd1f1.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-brands-400.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-brands-400.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-brands-400.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-brands-400.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-brands-400d41d.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-regular-400.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-regular-400.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-regular-400.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-regular-400.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-regular-400d41d.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-solid-900.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-solid-900.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-solid-900.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-solid-900.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-solid-900d41d.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/1banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/2banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/3banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/4banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/5banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/best-seller-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/home-2-slider-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/home-2-slider-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/home-3-slider-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/home-3-slider-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/home-4-slider-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/home-4-slider-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/home-slider-1-ai.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/home-slider-2-ai.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/promo-banner-contained.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/promo-banner-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/promo-banner-mid.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/promo-banner-small-with-text.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/promo-banner-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/promo-banner-with-text-2--small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/promo-banner-with-text-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/promo-banner-with-text-big.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/promo-banner-with-text.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/c1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/c2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/c3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/c4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/c5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/icon/author-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/icon/eng-flag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/icon/germany-flag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/icon/payment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/icon/quotation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/logo--footer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/best-seller-author.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/blog-grid-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/blog-grid-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/blog-grid-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/blog-grid-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/blog-img-big-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/blog-img-big-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/blog-img-big-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/brand-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/brand-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/brand-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/brand-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/brand-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/brand-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/cat-gal-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/cat-gal-mid-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/cat-gal-mid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/cat-gal-small-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/cat-gal-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/client-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/client-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/client-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/client-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/client-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/home-blog-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/home-blog-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/home-side-promo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/cart-product-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-details-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-details-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-details-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-details-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-details-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/wb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/wb2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/pustok.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/checkout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact-2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/plugins.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/faq.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Ionicons28b5.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-brands-400.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-regular-400.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-solid-900.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/ajax-mail.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login-register.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my-account.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/order-complete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/product-details.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop-grid-left-sidebar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop-grid-right-sidebar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop-grid.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop-list-left-sidebar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop-list-right-sidebar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop-list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/single-product.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wishlist.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="1267908521">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="4" />
+          <entry key="RNG Compact" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="493" />
+          <entry key="PHP" value="24" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="104" column="21" lean-forward="false" selection-start-line="104" selection-start-column="21" selection-end-line="104" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313684">
+              <caret line="18452" column="52" lean-forward="false" selection-start-line="18452" selection-start-column="52" selection-end-line="18452" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product-details.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/product-details.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19805">
+              <caret line="1165" column="41" lean-forward="false" selection-start-line="1165" selection-start-column="41" selection-end-line="1165" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>children's</find>
+      <find>late</find>
+      <find>ARTS</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/product-details.html" />
+        <option value="$PROJECT_DIR$/blog.php" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1920" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pustok" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pustok" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pustok" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pustok" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/image" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76390abd-88dc-4e32-8779-3edfb9e17d0f" name="Default Changelist" comment="" />
+      <created>1579078056437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579078056437</updated>
+      <workItem from="1579078057921" duration="4746000" />
+      <workItem from="1579178916519" duration="6497000" />
+      <workItem from="1579265595948" duration="599000" />
+      <workItem from="1579273445932" duration="3261000" />
+      <workItem from="1579277975017" duration="574000" />
+      <workItem from="1579399229664" duration="2103000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17780000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1040" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.104055494" sideWeight="0.5" order="-1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313684">
+          <caret line="18452" column="52" lean-forward="false" selection-start-line="18452" selection-start-column="52" selection-end-line="18452" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product-details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19805">
+          <caret line="1165" column="41" lean-forward="false" selection-start-line="1165" selection-start-column="41" selection-end-line="1165" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="88" column="16" lean-forward="false" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.php" />
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="104" column="21" lean-forward="false" selection-start-line="104" selection-start-column="21" selection-end-line="104" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop2/demo.hasthemes.com/pustok-preview/pustok/index-2.html" />
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313684">
+          <caret line="18452" column="52" lean-forward="false" selection-start-line="18452" selection-start-column="52" selection-end-line="18452" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product-details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19805">
+          <caret line="1165" column="41" lean-forward="false" selection-start-line="1165" selection-start-column="41" selection-end-line="1165" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
