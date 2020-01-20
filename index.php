@@ -394,7 +394,7 @@
                                             <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                 class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -433,7 +433,7 @@
                                             <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                 class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -471,7 +471,7 @@
                                             <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                 class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -510,7 +510,7 @@
                                             <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                 class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -548,7 +548,7 @@
                                             <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                 class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -587,7 +587,7 @@
                                             <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                 class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -671,7 +671,7 @@
                                             <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -710,7 +710,7 @@
                                             <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -748,7 +748,7 @@
                                             <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -787,7 +787,7 @@
                                             <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -825,7 +825,7 @@
                                             <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -864,7 +864,7 @@
                                             <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -925,7 +925,7 @@
                                             <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -964,7 +964,7 @@
                                             <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -1002,7 +1002,7 @@
                                             <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -1041,7 +1041,7 @@
                                             <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -1079,7 +1079,7 @@
                                             <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -1118,7 +1118,7 @@
                                             <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -1145,7 +1145,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-5 col-md-6">
                             <div class="author-image">
-                                <img src="image/others/best-seller-author.jpg" alt="">
+                                <img src="image/1banner.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-lg-7 col-md-6">
@@ -1308,7 +1308,7 @@
                                             <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -1347,7 +1347,7 @@
                                             <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -1385,7 +1385,7 @@
                                             <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -1424,7 +1424,7 @@
                                             <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -1462,7 +1462,7 @@
                                             <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -1501,7 +1501,7 @@
                                             <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -1634,60 +1634,19 @@
               "asNavFor": ".product-slider-nav"
               }'>
                                     <div class="single-slide">
-                                        <img src="image/products/product-details-1.jpg" alt="">
+                                        <img src="image/5banner.jpg" alt="">
                                     </div>
-                                    <div class="single-slide">
-                                        <img src="image/products/product-details-2.jpg" alt="">
-                                    </div>
-                                    <div class="single-slide">
-                                        <img src="image/products/product-details-3.jpg" alt="">
-                                    </div>
-                                    <div class="single-slide">
-                                        <img src="image/products/product-details-4.jpg" alt="">
-                                    </div>
-                                    <div class="single-slide">
-                                        <img src="image/products/product-details-5.jpg" alt="">
-                                    </div>
+
                                 </div>
                                 <!-- Product Details Slider Nav -->
-                                <div class="mt--30 product-slider-nav sb-slick-slider arrow-type-two"
-                                    data-slick-setting='{
-            "infinite":true,
-              "autoplay": true,
-              "autoplaySpeed": 8000,
-              "slidesToShow": 4,
-              "arrows": true,
-              "prevArrow":{"buttonClass": "slick-prev","iconClass":"fa fa-chevron-left"},
-              "nextArrow":{"buttonClass": "slick-next","iconClass":"fa fa-chevron-right"},
-              "asNavFor": ".product-details-slider",
-              "focusOnSelect": true
-              }'>
-                                    <div class="single-slide">
-                                        <img src="image/products/product-details-1.jpg" alt="">
-                                    </div>
-                                    <div class="single-slide">
-                                        <img src="image/products/product-details-2.jpg" alt="">
-                                    </div>
-                                    <div class="single-slide">
-                                        <img src="image/products/product-details-3.jpg" alt="">
-                                    </div>
-                                    <div class="single-slide">
-                                        <img src="image/products/product-details-4.jpg" alt="">
-                                    </div>
-                                    <div class="single-slide">
-                                        <img src="image/products/product-details-5.jpg" alt="">
-                                    </div>
-                                </div>
+
                             </div>
                             <div class="col-lg-7 mt--30 mt-lg--30">
                                 <div class="product-details-info pl-lg--30 ">
-                                    <p class="tag-block">Tags: <a href="#">Movado</a>, <a href="#">Omega</a></p>
-                                    <h3 class="product-title">Beats EP Wired On-Ear Headphone-Black</h3>
+                                    <p class="tag-block">Tags: <a href="#">Teaching</a>, <a href="#">Givings</a></p>
+                                    <h3 class="product-title">The Lost Presence</h3>
                                     <ul class="list-unstyled">
-                                        <li>Ex Tax: <span class="list-value"> £60.24</span></li>
-                                        <li>Brands: <a href="#" class="list-value font-weight-bold"> Canon</a></li>
-                                        <li>Product Code: <span class="list-value"> model1</span></li>
-                                        <li>Reward Points: <span class="list-value"> 200</span></li>
+
                                         <li>Availability: <span class="list-value"> In Stock</span></li>
                                     </ul>
                                     <div class="price-block">
@@ -1700,12 +1659,10 @@
                                             <span class="fas fa-star star_on"></span>
                                             <span class="fas fa-star star_on"></span>
                                             <span class="fas fa-star star_on"></span>
-                                            <span class="fas fa-star "></span>
+                                            <span class="fas fa-star star_on"></span>
+
                                         </div>
-                                        <div class="review-widget">
-                                            <a href="#">(1 Reviews)</a> <span>|</span>
-                                            <a href="#">Write a review</a>
-                                        </div>
+
                                     </div>
                                     <article class="product-details-article">
                                         <h4 class="sr-only">Product Summery</h4>
@@ -1724,10 +1681,7 @@
                                                     class="plus-icon">+</span>Add to Cart</a>
                                         </div>
                                     </div>
-                                    <div class="compare-wishlist-row">
-                                        <a href="#" class="add-link"><i class="fas fa-heart"></i>Add to Wish List</a>
-                                        <a href="#" class="add-link"><i class="fas fa-random"></i>Add to Compare</a>
-                                    </div>
+                                   
                                 </div>
                             </div>
                         </div>
