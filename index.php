@@ -10,7 +10,7 @@
     <!-- Use Minified Plugins Version For Fast Page Load -->
     <link rel="stylesheet" type="text/css" media="screen" href="css/plugins.css" />
     <link rel="stylesheet" type="text/css" media="screen" href="css/main.css" />
-    <link rel="shortcut icon" type="image/x-icon" href="image/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="image/logo.png">
 </head>
 
 <body>
@@ -1134,6 +1134,391 @@
                 </div>
             </div>
         </section>
+
+        <section class="section-margin bg-image section-padding-top section-padding"
+                 data-bg="image/bg-images/best-seller-bg.jpg">
+            <div class="container">
+                <div class="section-title section-title--bordered mb-0">
+                    <h2>Special Products</h2>
+                </div>
+                <div class="best-seller-block">
+                    <div class="row align-items-center">
+                        <div class="col-lg-5 col-md-6">
+                            <div class="author-image">
+                                <img src="image/others/best-seller-author.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="col-lg-7 col-md-6">
+                            <div class="sb-slick-slider product-slider product-list-slider multiple-row slider-border-multiple-row"
+                                 data-slick-setting='{
+                                    "autoplay": false,
+                                    "autoplaySpeed": 8000,
+                                    "slidesToShow":2,
+                                    "rows":2,
+                                    "dots":true
+                                }' data-slick-responsive='[
+                                    {"breakpoint":1200, "settings": {"slidesToShow": 1} },
+                                    {"breakpoint":992, "settings": {"slidesToShow": 1} },
+                                    {"breakpoint":768, "settings": {"slidesToShow": 1} },
+                                    {"breakpoint":575, "settings": {"slidesToShow": 1} },
+                                    {"breakpoint":490, "settings": {"slidesToShow": 1} }
+                                ]'>
+                                <div class="single-slide">
+                                    <div class="product-card card-style-list">
+                                        <div class="card-image">
+                                            <img src="image/5banner.jpg" alt="">
+                                        </div>
+                                        <div class="product-card--body">
+                                            <div class="product-header">
+                                                <a href="#" class="author">
+                                                    Partnership
+                                                </a>
+                                                <h3><a href="#">Do You Really Need It? This
+                                                        Will Help You
+                                                    </a></h3>
+                                            </div>
+                                            <div class="price-block">
+                                                <span class="price">£51.20</span>
+                                                <del class="price-old">£51.20</del>
+                                                <span class="price-discount">20%</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="single-slide">
+                                    <div class="product-card card-style-list">
+                                        <div class="card-image">
+                                            <img src="image/4banner.jpg" alt="">
+                                        </div>
+                                        <div class="product-card--body">
+                                            <div class="product-header">
+                                                <a href="#" class="author">
+                                                    Healing
+                                                </a>
+                                                <h3><a href="#">Here Is Quick Cure BOOK This
+                                                        Will Help
+
+                                                    </a></h3>
+                                            </div>
+                                            <div class="price-block">
+                                                <span class="price">£51.20</span>
+                                                <del class="price-old">£51.20</del>
+                                                <span class="price-discount">20%</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="single-slide">
+                                    <div class="product-card card-style-list">
+                                        <div class="card-image">
+                                            <img src="image/3banner.jpg" alt="">
+                                        </div>
+                                        <div class="product-card--body">
+                                            <div class="product-header">
+                                                <a href="#" class="author">
+                                                    Givings
+                                                </a>
+                                                <h3><a href="#">Do You Really Need It? This
+                                                        Will Help You
+
+                                                    </a></h3>
+                                            </div>
+                                            <div class="price-block">
+                                                <span class="price">£51.20</span>
+                                                <del class="price-old">£51.20</del>
+                                                <span class="price-discount">20%</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="single-slide">
+                                    <div class="product-card card-style-list">
+                                        <div class="card-image">
+                                            <img src="image/2banner.jpg" alt="">
+                                        </div>
+                                        <div class="product-card--body">
+                                            <div class="product-header">
+                                                <a href="#" class="author">
+                                                    Faith
+                                                </a>
+                                                <h3><a href="#">Very Simple Things You
+                                                        Can Save BOOK
+
+
+
+                                                    </a>
+                                                </h3>
+                                            </div>
+                                            <div class="price-block">
+                                                <span class="price">£51.20</span>
+                                                <del class="price-old">£51.20</del>
+                                                <span class="price-discount">20%</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section-margin">
+            <div class="container">
+                <div class="section-title section-title--bordered">
+                    <h2>Giving and Tithing</h2>
+                </div>
+                <div class="product-slider sb-slick-slider slider-border-single-row" data-slick-setting='{
+                        "autoplay": true,
+                        "autoplaySpeed": 8000,
+                        "slidesToShow": 5,
+                        "dots":true
+                    }' data-slick-responsive='[
+                        {"breakpoint":1200, "settings": {"slidesToShow": 4} },
+                        {"breakpoint":992, "settings": {"slidesToShow": 3} },
+                        {"breakpoint":768, "settings": {"slidesToShow": 2} },
+                        {"breakpoint":480, "settings": {"slidesToShow": 1} },
+                        {"breakpoint":320, "settings": {"slidesToShow": 1} }
+                    ]'>
+                    <div class="single-slide">
+                        <div class="product-card">
+                            <div class="product-header">
+                                <a href="#" class="author">
+                                    Faith
+                                </a>
+                                <h3><a href="#">5 Blessings in His name with Pastor Chris</a></h3>
+                            </div>
+                            <div class="product-card--body">
+                                <div class="card-image">
+                                    <img src="image/1banner.jpg" alt="">
+                                    <div class="hover-contents">
+                                        <a href="#" class="hover-image">
+                                            <img src="image/1banner.jpg" alt="">
+                                        </a>
+                                        <div class="hover-btns">
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-shopping-basket"></i>
+                                            </a>
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-heart"></i>
+                                            </a>
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-random"></i>
+                                            </a>
+                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                               class="single-btn">
+                                                <i class="fas fa-eye"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="price-block">
+                                    <span class="price">£51.20</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="single-slide">
+                        <div class="product-card">
+                            <div class="product-header">
+                                <a href="#" class="author">
+                                    Faith
+                                </a>
+                                <h3><a href="#">7 Facts of higher life with Pastor Chris</a>
+                                </h3>
+                            </div>
+                            <div class="product-card--body">
+                                <div class="card-image">
+                                    <img src="image/2banner.jpg" alt="">
+                                    <div class="hover-contents">
+                                        <a href="#" class="hover-image">
+                                            <img src="image/2banner.jpg" alt="">
+                                        </a>
+                                        <div class="hover-btns">
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-shopping-basket"></i>
+                                            </a>
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-heart"></i>
+                                            </a>
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-random"></i>
+                                            </a>
+                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                               class="single-btn">
+                                                <i class="fas fa-eye"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="price-block">
+                                    <span class="price">£51.20</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="single-slide">
+                        <div class="product-card">
+                            <div class="product-header">
+                                <a href="#" class="author">
+                                    Faith
+                                </a>
+                                <h3><a href="#">Faith Proclamation for kids</a></h3>
+                            </div>
+                            <div class="product-card--body">
+                                <div class="card-image">
+                                    <img src="image/3banner.jpg" alt="">
+                                    <div class="hover-contents">
+                                        <a href="#" class="hover-image">
+                                            <img src="image/3banner.jpg" alt="">
+                                        </a>
+                                        <div class="hover-btns">
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-shopping-basket"></i>
+                                            </a>
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-heart"></i>
+                                            </a>
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-random"></i>
+                                            </a>
+                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                               class="single-btn">
+                                                <i class="fas fa-eye"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="price-block">
+                                    <span class="price">£51.20</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="single-slide">
+                        <div class="product-card">
+                            <div class="product-header">
+                                <a href="#" class="author">
+                                    Faith
+                                </a>
+                                <h3><a href="#">Faith Proclamation with Pastor Chris</a>
+                                </h3>
+                            </div>
+                            <div class="product-card--body">
+                                <div class="card-image">
+                                    <img src="image/4banner.jpg" alt="">
+                                    <div class="hover-contents">
+                                        <a href="#" class="hover-image">
+                                            <img src="image/4banner.jpg" alt="">
+                                        </a>
+                                        <div class="hover-btns">
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-shopping-basket"></i>
+                                            </a>
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-heart"></i>
+                                            </a>
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-random"></i>
+                                            </a>
+                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                               class="single-btn">
+                                                <i class="fas fa-eye"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="price-block">
+                                    <span class="price">£51.20</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="single-slide">
+                        <div class="product-card">
+                            <div class="product-header">
+                                <a href="#" class="author">
+                                    Faith
+                                </a>
+                                <h3><a href="#">The Lost Presence with Pastor Chris</a></h3>
+                            </div>
+                            <div class="product-card--body">
+                                <div class="card-image">
+                                    <img src="image/5banner.jpg" alt="">
+                                    <div class="hover-contents">
+                                        <a href="#" class="hover-image">
+                                            <img src="image/5banner.jpg" alt="">
+                                        </a>
+                                        <div class="hover-btns">
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-shopping-basket"></i>
+                                            </a>
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-heart"></i>
+                                            </a>
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-random"></i>
+                                            </a>
+                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                               class="single-btn">
+                                                <i class="fas fa-eye"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="price-block">
+                                    <span class="price">£51.20</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="single-slide">
+                        <div class="product-card">
+                            <div class="product-header">
+                                <a href="#" class="author">
+                                    Faith
+                                </a>
+                                <h3><a href="#">5 Blessings in His name with Pastor Chris</a>
+                                </h3>
+                            </div>
+                            <div class="product-card--body">
+                                <div class="card-image">
+                                    <img src="image/1banner.jpg" alt="">
+                                    <div class="hover-contents">
+                                        <a href="#" class="hover-image">
+                                            <img src="image/1banner.jpg" alt="">
+                                        </a>
+                                        <div class="hover-btns">
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-shopping-basket"></i>
+                                            </a>
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-heart"></i>
+                                            </a>
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-random"></i>
+                                            </a>
+                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                               class="single-btn">
+                                                <i class="fas fa-eye"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="price-block">
+                                    <span class="price">£51.20</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
 
 
         <section class="section-margin">
