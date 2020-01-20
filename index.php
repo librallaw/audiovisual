@@ -352,7 +352,7 @@
         <section class="section-margin">
             <div class="container">
                 <div class="sect`ion-title section-title--bordered">
-                    <h2>ARTS & PHOTOGRAPHY BOOKS</h2>
+                    <h2>RECENTLY ADDED MESSAGES</h2>
                 </div>
                 <div class="product-slider sb-slick-slider slider-border-single-row" data-slick-setting='{
                         "autoplay": true,
@@ -385,10 +385,10 @@
                                             <a href="cart.php" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
                                             <a href="#" data-toggle="modal" data-target="#quickModal"
@@ -424,10 +424,10 @@
                                             <a href="cart.php" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
                                             <a href="#" data-toggle="modal" data-target="#quickModal"
@@ -462,10 +462,10 @@
                                             <a href="cart.php" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
                                             <a href="#" data-toggle="modal" data-target="#quickModal"
@@ -501,10 +501,10 @@
                                             <a href="cart.php" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
                                             <a href="#" data-toggle="modal" data-target="#quickModal"
@@ -539,10 +539,10 @@
                                             <a href="cart.php" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
                                             <a href="#" data-toggle="modal" data-target="#quickModal"
@@ -578,10 +578,10 @@
                                             <a href="cart.php" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
                                             <a href="#" data-toggle="modal" data-target="#quickModal"
@@ -662,10 +662,10 @@
                                             <a href="cart.php" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
                                             <a href="#" data-toggle="modal" data-target="#quickModal"
@@ -701,10 +701,10 @@
                                             <a href="cart.php" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
                                             <a href="#" data-toggle="modal" data-target="#quickModal"
@@ -739,10 +739,10 @@
                                             <a href="cart.php" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
                                             <a href="#" data-toggle="modal" data-target="#quickModal"
@@ -778,10 +778,10 @@
                                             <a href="cart.php" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
                                             <a href="#" data-toggle="modal" data-target="#quickModal"
@@ -816,10 +816,10 @@
                                             <a href="cart.php" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
                                             <a href="#" data-toggle="modal" data-target="#quickModal"
@@ -855,10 +855,10 @@
                                             <a href="cart.php" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
                                             <a href="#" data-toggle="modal" data-target="#quickModal"
@@ -883,7 +883,7 @@
         <section class="section-margin">
             <div class="container">
                 <div class="section-title section-title--bordered">
-                    <h2>BIOGRAPHIES BOOKS</h2>
+                    <h2>FAITH MESSAGES</h2>
                 </div>
                 <div class="product-slider sb-slick-slider slider-border-single-row" data-slick-setting='{
                         "autoplay": true,
@@ -916,10 +916,10 @@
                                             <a href="cart.php" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
                                             <a href="#" data-toggle="modal" data-target="#quickModal"
@@ -955,10 +955,10 @@
                                             <a href="cart.php" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
                                             <a href="#" data-toggle="modal" data-target="#quickModal"
@@ -993,10 +993,10 @@
                                             <a href="cart.php" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
                                             <a href="#" data-toggle="modal" data-target="#quickModal"
@@ -1032,10 +1032,10 @@
                                             <a href="cart.php" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
                                             <a href="#" data-toggle="modal" data-target="#quickModal"
@@ -1070,10 +1070,10 @@
                                             <a href="cart.php" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
                                             <a href="#" data-toggle="modal" data-target="#quickModal"
@@ -1109,10 +1109,10 @@
                                             <a href="cart.php" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
                                             <a href="#" data-toggle="modal" data-target="#quickModal"
@@ -1131,12 +1131,107 @@
                 </div>
             </div>
         </section>
-        <!--=================================
-        Home Features Section
-    ===================================== -->
-        <!--=================================
-        Promotion Section One
-    ===================================== -->
+
+
+        <section class="section-margin">
+            <div class="container">
+                <div class="section-title section-title--bordered mb-lg--60">
+                    <h2>TESTIMONIALS</h2>
+                </div>
+                <div class="sb-slick-slider testimonial-slider" data-slick-setting='{
+                "autoplay": true,
+                "autoplaySpeed": 8000,
+                "slidesToShow":3,
+                "dots":true
+            }' data-slick-responsive='[
+                {"breakpoint":1200, "settings": {"slidesToShow": 2} },
+                {"breakpoint":992, "settings": {"slidesToShow": 1} },
+                {"breakpoint":768, "settings": {"slidesToShow": 1} },
+                {"breakpoint":490, "settings": {"slidesToShow": 1} }
+            ]'>
+                    <div class="single-slide">
+                        <div class="testimonial-card">
+                            <div class="testimonial-image">
+                                <img src="image/others/client-1.png" alt="">
+                            </div>
+                            <div class="testimonial-body">
+                                <article>
+                                    <h2 class="sr-only">Testimonial Article</h2>
+                                    <p>version This is Photoshops of Lorem Ipsum. Proin gravida nibh vel velit.Lorem
+                                        ipsum dolor sit amet, consectetur
+                                        adipiscing elit. In molestie augue magna. Pell..</p>
+                                    <span class="d-block client-name">Rebecka Filson</span>
+                                </article>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="single-slide">
+                        <div class="testimonial-card">
+                            <div class="testimonial-image">
+                                <img src="image/others/client-2.png" alt="">
+                            </div>
+                            <div class="testimonial-body">
+                                <article>
+                                    <h2 class="sr-only">Testimonial Article</h2>
+                                    <p>In molestie augue magna.This is Photoshops version of Lorem Ipsum. Proin gravida
+                                        nibh vel velit.Lorem ipsum dolor sit amet, consectetur
+                                        adipiscing elit. Pell..</p>
+                                    <span class="d-block client-name">Rebecka Filson</span>
+                                </article>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="single-slide">
+                        <div class="testimonial-card">
+                            <div class="testimonial-image">
+                                <img src="image/others/client-3.png" alt="">
+                            </div>
+                            <div class="testimonial-body">
+                                <article>
+                                    <h2 class="sr-only">Testimonial Article</h2>
+                                    <p>Lorem Ipsum This is Photoshops version of . Proin gravida nibh vel velit.Lorem
+                                        ipsum dolor sit amet, consectetur
+                                        adipiscing elit. In molestie augue magna. Pell..</p>
+                                    <span class="d-block client-name">Rebecka Filson</span>
+                                </article>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="single-slide">
+                        <div class="testimonial-card">
+                            <div class="testimonial-image">
+                                <img src="image/others/client-4.png" alt="">
+                            </div>
+                            <div class="testimonial-body">
+                                <article>
+                                    <h2 class="sr-only">Testimonial Article</h2>
+                                    <p>elit. In molestie This is Photoshops version of Lorem Ipsum. Proin gravida nibh
+                                        vel velit.Lorem ipsum dolor sit amet, consectetur
+                                        adipiscing augue magna. Pell..</p>
+                                    <span class="d-block client-name">Rebecka Filson</span>
+                                </article>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="single-slide">
+                        <div class="testimonial-card">
+                            <div class="testimonial-image">
+                                <img src="image/others/client-5.png" alt="">
+                            </div>
+                            <div class="testimonial-body">
+                                <article>
+                                    <h2 class="sr-only">Testimonial Article</h2>
+                                    <p>Pell Photoshops version of Lorem Ipsum. Proin gravida nibh vel velit.Lorem ipsum
+                                        dolor sit amet, consectetur
+                                        adipiscing elit. In molestie augue magna. This is..</p>
+                                    <span class="d-block client-name">Rebecka Filson</span>
+                                </article>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
         <!--=================================
         Home Two Column Section
         <!-- Modal -->
@@ -1299,5 +1394,4 @@
 </body>
 
 
-<!-- Mirrored from demo.hasthemes.com/pustok-preview/pustok/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 14 Jan 2020 20:05:10 GMT -->
 </html>

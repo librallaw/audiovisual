@@ -2,145 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76390abd-88dc-4e32-8779-3edfb9e17d0f" name="Default Changelist" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Ionicons28b5.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Ionicons28b5.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Ionicons28b5.ttf.z" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Ionicons28b5.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Material-Design-Iconic-Fontd1f1.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Material-Design-Iconic-Fontd1f1.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Material-Design-Iconic-Fontd1f1.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-brands-400.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-brands-400.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-brands-400.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-brands-400.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-brands-400d41d.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-regular-400.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-regular-400.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-regular-400.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-regular-400.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-regular-400d41d.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-solid-900.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-solid-900.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-solid-900.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-solid-900.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-solid-900d41d.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/1banner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/2banner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/3banner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/4banner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/5banner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/best-seller-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/home-2-slider-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/home-2-slider-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/home-3-slider-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/home-3-slider-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/home-4-slider-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/home-4-slider-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/home-slider-1-ai.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/home-slider-2-ai.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/promo-banner-contained.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/promo-banner-full.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/promo-banner-mid.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/promo-banner-small-with-text.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/promo-banner-small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/promo-banner-with-text-2--small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/promo-banner-with-text-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/promo-banner-with-text-big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bg-images/promo-banner-with-text.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/c1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/c2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/c3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/c4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/c5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/icon/author-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/icon/eng-flag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/icon/germany-flag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/icon/payment.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/icon/quotation.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/logo--footer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/best-seller-author.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/blog-grid-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/blog-grid-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/blog-grid-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/blog-grid-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/blog-img-big-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/blog-img-big-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/blog-img-big-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/brand-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/brand-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/brand-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/brand-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/brand-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/brand-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/cat-gal-large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/cat-gal-mid-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/cat-gal-mid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/cat-gal-small-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/cat-gal-small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/client-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/client-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/client-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/client-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/client-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/home-blog-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/home-blog-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/others/home-side-promo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/cart-product-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-details-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-details-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-details-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-details-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/products/product-details-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/wb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/wb2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/pustok.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/checkout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact-2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/plugins.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/faq.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Ionicons28b5.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-brands-400.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-regular-400.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fa-solid-900.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/ajax-mail.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login-register.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my-account.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/order-complete.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/product-details.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop-grid-left-sidebar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop-grid-right-sidebar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop-grid.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop-list-left-sidebar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop-list-right-sidebar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop-list.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/single-product.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wishlist.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -182,8 +44,20 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="104" column="21" lean-forward="false" selection-start-line="104" selection-start-column="21" selection-end-line="104" selection-end-column="21" />
+            <state relative-caret-position="176">
+              <caret line="877" column="18" lean-forward="true" selection-start-line="877" selection-start-column="18" selection-end-line="877" selection-end-column="18" />
+              <folding>
+                <marker date="1579434197588" expanded="false" signature="71609:71616" ph="×" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index-3.html" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/websites/demo.hasthemes.com/pustok-preview/pustok/index-3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="3313" column="8" lean-forward="false" selection-start-line="3313" selection-start-column="8" selection-end-line="3411" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -216,6 +90,7 @@
       <find>children's</find>
       <find>late</find>
       <find>ARTS</find>
+      <find>testo</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -331,12 +206,12 @@
       <workItem from="1579265595948" duration="599000" />
       <workItem from="1579273445932" duration="3261000" />
       <workItem from="1579277975017" duration="574000" />
-      <workItem from="1579399229664" duration="2103000" />
+      <workItem from="1579399229664" duration="3238000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17780000" />
+    <option name="totallyTimeSpent" value="18915000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1040" extended-state="6" />
@@ -349,7 +224,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
     </layout>
@@ -369,7 +244,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1579434197588" expanded="false" signature="71609:71616" ph="×" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -397,14 +274,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog.php" />
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="104" column="21" lean-forward="false" selection-start-line="104" selection-start-column="21" selection-end-line="104" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../shop2/demo.hasthemes.com/pustok-preview/pustok/index-2.html" />
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -419,6 +288,24 @@
         <state relative-caret-position="19805">
           <caret line="1165" column="41" lean-forward="false" selection-start-line="1165" selection-start-column="41" selection-end-line="1165" selection-end-column="41" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/websites/demo.hasthemes.com/pustok-preview/pustok/index-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="3313" column="8" lean-forward="false" selection-start-line="3313" selection-start-column="8" selection-end-line="3411" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="877" column="18" lean-forward="true" selection-start-line="877" selection-start-column="18" selection-end-line="877" selection-end-column="18" />
+          <folding>
+            <marker date="1579434197588" expanded="false" signature="71609:71616" ph="×" />
+          </folding>
         </state>
       </provider>
     </entry>
