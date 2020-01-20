@@ -2,11 +2,10 @@
 <html lang="zxx">
 
 
-<!-- Mirrored from demo.hasthemes.com/pustok-preview/pustok/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 14 Jan 2020 20:05:07 GMT -->
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Pustok - Book Store HTML Template</title>
+    <title>Welcome - LoveWorld AudioVisual</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Use Minified Plugins Version For Fast Page Load -->
     <link rel="stylesheet" type="text/css" media="screen" href="css/plugins.css" />
@@ -35,8 +34,8 @@
                             <div class="main-navigation flex-lg-right">
                                 <div class="cart-widget">
                                     <div class="login-block">
-                                        <a href="login-register.php" class="font-weight-bold">Login</a> <br>
-                                        <span>or</span><a href="login-register.php">Register</a>
+                                        <a href="#" class="font-weight-bold">Login</a> <br>
+                                        <span>or</span><a href="#">Register</a>
                                     </div>
                                     <div class="cart-block">
                                         <div class="cart-total">
@@ -54,12 +53,13 @@
                                         <div class="cart-dropdown-block">
                                             <div class=" single-cart-block ">
                                                 <div class="cart-product">
-                                                    <a href="product-details.php" class="image">
-                                                        <img src="image/products/cart-product-1.jpg" alt="">
+                                                    <a href="#" class="image">
+                                                        <img src="image/5banner.jpg" alt="">
                                                     </a>
                                                     <div class="content">
-                                                        <h3 class="title"><a href="product-details.php">Kodak PIXPRO
-                                                                Astro Zoom AZ421 16 MP</a></h3>
+                                                        <h3 class="title"><a href="#">Lost in his
+                                                                Presence
+                                                                </a></h3>
                                                         <p class="price"><span class="qty">1 ×</span> £87.34</p>
                                                         <button class="cross-btn"><i class="fas fa-times"></i></button>
                                                     </div>
@@ -67,9 +67,9 @@
                                             </div>
                                             <div class=" single-cart-block ">
                                                 <div class="btn-block">
-                                                    <a href="cart.php" class="btn">View Cart <i
+                                                    <a href="#" class="btn">View Cart <i
                                                             class="fas fa-chevron-right"></i></a>
-                                                    <a href="checkout.php" class="btn btn--primary">Check Out <i
+                                                    <a href="#" class="btn btn--primary">Check Out <i
                                                             class="fas fa-chevron-right"></i></a>
                                                 </div>
                                             </div>
@@ -180,7 +180,7 @@
                             <div class="mobile-header-btns header-top-widget">
                                 <ul class="header-links">
                                     <li class="sin-link">
-                                        <a href="cart.php" class="cart-link link-icon"><i class="ion-bag"></i></a>
+                                        <a href="#" class="cart-link link-icon"><i class="ion-bag"></i></a>
                                     </li>
                                     <li class="sin-link">
                                         <a href="javascript:" class="link-icon hamburgur-icon off-canvas-btn"><i
@@ -325,6 +325,9 @@
         <section class="pt--30 section-margin">
             <h2 class="sr-only">Category Gallery Section</h2>
             <div class="container">
+                <div class="section-title section-title--bordered">
+                    <h2>Featured Categories</h2>
+                </div>
                 <div class="category-gallery-block">
                     <a href="#" class="single-block hr-large">
                         <img src="image/c1.jpg" alt="this is a category image">
@@ -351,8 +354,8 @@
 ===================================== -->
         <section class="section-margin">
             <div class="container">
-                <div class="sect`ion-title section-title--bordered">
-                    <h2>RECENTLY ADDED MESSAGES</h2>
+                <div class="section-title section-title--bordered">
+                    <h2>RECENTLY ADDED PRODUCTS</h2>
                 </div>
                 <div class="product-slider sb-slick-slider slider-border-single-row" data-slick-setting='{
                         "autoplay": true,
@@ -372,17 +375,17 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">5 Blessings in His name with Pastor Chris</a></h3>
+                                <h3><a href="#">5 Blessings in His name with Pastor Chris</a></h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/1banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/1banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
                                             <a href="#" class="single-btn">
@@ -410,18 +413,18 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">7 Facts of higher life with Pastor Chris</a>
+                                <h3><a href="#">7 Facts of higher life with Pastor Chris</a>
                                 </h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/2banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/2banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
                                             <a href="#" class="single-btn">
@@ -449,17 +452,17 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">Faith Proclamation for kids</a></h3>
+                                <h3><a href="#">Faith Proclamation for kids</a></h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/3banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/3banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
                                             <a href="#" class="single-btn">
@@ -487,18 +490,18 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">Faith Proclamation with Pastor Chris</a>
+                                <h3><a href="#">Faith Proclamation with Pastor Chris</a>
                                 </h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/4banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/4banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
                                             <a href="#" class="single-btn">
@@ -526,17 +529,17 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">The Lost Presence with Pastor Chris</a></h3>
+                                <h3><a href="#">The Lost Presence with Pastor Chris</a></h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/5banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/5banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
                                             <a href="#" class="single-btn">
@@ -564,18 +567,18 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">5 Blessings in His name with Pastor Chris</a>
+                                <h3><a href="#">5 Blessings in His name with Pastor Chris</a>
                                 </h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/1banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/1banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
                                             <a href="#" class="single-btn">
@@ -649,17 +652,17 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">5 Blessings in His name with Pastor Chris</a></h3>
+                                <h3><a href="#">5 Blessings in His name with Pastor Chris</a></h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/1banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/1banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
                                             <a href="#" class="single-btn">
@@ -687,18 +690,18 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">7 Facts of higher life with Pastor Chris</a>
+                                <h3><a href="#">7 Facts of higher life with Pastor Chris</a>
                                 </h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/2banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/2banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
                                             <a href="#" class="single-btn">
@@ -726,17 +729,17 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">Faith Proclamation for kids</a></h3>
+                                <h3><a href="#">Faith Proclamation for kids</a></h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/3banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/3banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
                                             <a href="#" class="single-btn">
@@ -764,18 +767,18 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">Faith Proclamation with Pastor Chris</a>
+                                <h3><a href="#">Faith Proclamation with Pastor Chris</a>
                                 </h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/4banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/4banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
                                             <a href="#" class="single-btn">
@@ -803,17 +806,17 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">The Lost Presence with Pastor Chris</a></h3>
+                                <h3><a href="#">The Lost Presence with Pastor Chris</a></h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/5banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/5banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
                                             <a href="#" class="single-btn">
@@ -841,18 +844,18 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">5 Blessings in His name with Pastor Chris</a>
+                                <h3><a href="#">5 Blessings in His name with Pastor Chris</a>
                                 </h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/1banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/1banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
                                             <a href="#" class="single-btn">
@@ -903,17 +906,17 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">5 Blessings in His name with Pastor Chris</a></h3>
+                                <h3><a href="#">5 Blessings in His name with Pastor Chris</a></h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/1banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/1banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
                                             <a href="#" class="single-btn">
@@ -941,18 +944,18 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">7 Facts of higher life with Pastor Chris</a>
+                                <h3><a href="#">7 Facts of higher life with Pastor Chris</a>
                                 </h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/2banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/2banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
                                             <a href="#" class="single-btn">
@@ -980,17 +983,17 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">Faith Proclamation for kids</a></h3>
+                                <h3><a href="#">Faith Proclamation for kids</a></h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/3banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/3banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
                                             <a href="#" class="single-btn">
@@ -1018,18 +1021,18 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">Faith Proclamation with Pastor Chris</a>
+                                <h3><a href="#">Faith Proclamation with Pastor Chris</a>
                                 </h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/4banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/4banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
                                             <a href="#" class="single-btn">
@@ -1057,17 +1060,17 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">The Lost Presence with Pastor Chris</a></h3>
+                                <h3><a href="#">The Lost Presence with Pastor Chris</a></h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/5banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/5banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
                                             <a href="#" class="single-btn">
@@ -1095,18 +1098,18 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">5 Blessings in His name with Pastor Chris</a>
+                                <h3><a href="#">5 Blessings in His name with Pastor Chris</a>
                                 </h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/1banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/1banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
                                             <a href="#" class="single-btn">
@@ -1157,9 +1160,7 @@
                             <div class="testimonial-body">
                                 <article>
                                     <h2 class="sr-only">Testimonial Article</h2>
-                                    <p>version This is Photoshops of Lorem Ipsum. Proin gravida nibh vel velit.Lorem
-                                        ipsum dolor sit amet, consectetur
-                                        adipiscing elit. In molestie augue magna. Pell..</p>
+                                    <p>Christianity is not a religion but the pulsating life of God in a human person</p>
                                     <span class="d-block client-name">Rebecka Filson</span>
                                 </article>
                             </div>
@@ -1173,9 +1174,8 @@
                             <div class="testimonial-body">
                                 <article>
                                     <h2 class="sr-only">Testimonial Article</h2>
-                                    <p>In molestie augue magna.This is Photoshops version of Lorem Ipsum. Proin gravida
-                                        nibh vel velit.Lorem ipsum dolor sit amet, consectetur
-                                        adipiscing elit. Pell..</p>
+                                    <p>Keep saying it, don't stop talking it.
+                                        The Bible says in the city of ephesus, so mightily grew the word of God and prevailed</p>
                                     <span class="d-block client-name">Rebecka Filson</span>
                                 </article>
                             </div>
@@ -1189,9 +1189,7 @@
                             <div class="testimonial-body">
                                 <article>
                                     <h2 class="sr-only">Testimonial Article</h2>
-                                    <p>Lorem Ipsum This is Photoshops version of . Proin gravida nibh vel velit.Lorem
-                                        ipsum dolor sit amet, consectetur
-                                        adipiscing elit. In molestie augue magna. Pell..</p>
+                                    <p>I'm what God says I am in the name of Jesus.</p>
                                     <span class="d-block client-name">Rebecka Filson</span>
                                 </article>
                             </div>
@@ -1205,9 +1203,7 @@
                             <div class="testimonial-body">
                                 <article>
                                     <h2 class="sr-only">Testimonial Article</h2>
-                                    <p>elit. In molestie This is Photoshops version of Lorem Ipsum. Proin gravida nibh
-                                        vel velit.Lorem ipsum dolor sit amet, consectetur
-                                        adipiscing augue magna. Pell..</p>
+                                    <p>Why are going around the world teaching the gospel, because Jesus is coming again</p>
                                     <span class="d-block client-name">Rebecka Filson</span>
                                 </article>
                             </div>
@@ -1221,9 +1217,7 @@
                             <div class="testimonial-body">
                                 <article>
                                     <h2 class="sr-only">Testimonial Article</h2>
-                                    <p>Pell Photoshops version of Lorem Ipsum. Proin gravida nibh vel velit.Lorem ipsum
-                                        dolor sit amet, consectetur
-                                        adipiscing elit. In molestie augue magna. This is..</p>
+                                    <p>I am set on the course I must follow, in the name of Jesus, prosperity is mine"</p>
                                     <span class="d-block client-name">Rebecka Filson</span>
                                 </article>
                             </div>
