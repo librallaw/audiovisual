@@ -2,16 +2,15 @@
 <html lang="zxx">
 
 
-<!-- Mirrored from demo.hasthemes.com/pustok-preview/pustok/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 14 Jan 2020 20:05:07 GMT -->
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Pustok - Book Store HTML Template</title>
+    <title>Welcome - LoveWorld AudioVisual</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Use Minified Plugins Version For Fast Page Load -->
     <link rel="stylesheet" type="text/css" media="screen" href="css/plugins.css" />
     <link rel="stylesheet" type="text/css" media="screen" href="css/main.css" />
-    <link rel="shortcut icon" type="image/x-icon" href="image/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="image/logo.png">
 </head>
 
 <body>
@@ -35,8 +34,8 @@
                             <div class="main-navigation flex-lg-right">
                                 <div class="cart-widget">
                                     <div class="login-block">
-                                        <a href="login-register.php" class="font-weight-bold">Login</a> <br>
-                                        <span>or</span><a href="login-register.php">Register</a>
+                                        <a href="#" class="font-weight-bold">Login</a> <br>
+                                        <span>or</span><a href="#">Register</a>
                                     </div>
                                     <div class="cart-block">
                                         <div class="cart-total">
@@ -54,12 +53,13 @@
                                         <div class="cart-dropdown-block">
                                             <div class=" single-cart-block ">
                                                 <div class="cart-product">
-                                                    <a href="product-details.php" class="image">
-                                                        <img src="image/products/cart-product-1.jpg" alt="">
+                                                    <a href="#" class="image">
+                                                        <img src="image/5banner.jpg" alt="">
                                                     </a>
                                                     <div class="content">
-                                                        <h3 class="title"><a href="product-details.php">Kodak PIXPRO
-                                                                Astro Zoom AZ421 16 MP</a></h3>
+                                                        <h3 class="title"><a href="#">Lost in his
+                                                                Presence
+                                                                </a></h3>
                                                         <p class="price"><span class="qty">1 ×</span> £87.34</p>
                                                         <button class="cross-btn"><i class="fas fa-times"></i></button>
                                                     </div>
@@ -67,9 +67,9 @@
                                             </div>
                                             <div class=" single-cart-block ">
                                                 <div class="btn-block">
-                                                    <a href="cart.php" class="btn">View Cart <i
+                                                    <a href="#" class="btn">View Cart <i
                                                             class="fas fa-chevron-right"></i></a>
-                                                    <a href="checkout.php" class="btn btn--primary">Check Out <i
+                                                    <a href="#" class="btn btn--primary">Check Out <i
                                                             class="fas fa-chevron-right"></i></a>
                                                 </div>
                                             </div>
@@ -92,106 +92,18 @@
                                             class="fa fa-bars"></i>Browse
                                         categories</a>
                                     <ul class="category-menu">
-                                        <li class="cat-item has-children">
-                                            <a href="#">Arts & Photography</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="#">Bags & Cases</a></li>
-                                                <li><a href="#">Binoculars & Scopes</a></li>
-                                                <li><a href="#">Digital Cameras</a></li>
-                                                <li><a href="#">Film Photography</a></li>
-                                                <li><a href="#">Lighting & Studio</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="cat-item has-children mega-menu"><a href="#">Biographies</a>
-                                            <ul class="sub-menu">
-                                                <li class="single-block">
-                                                    <h3 class="title">WHEEL SIMULATORS</h3>
-                                                    <ul>
-                                                        <li><a href="#">Bags & Cases</a></li>
-                                                        <li><a href="#">Binoculars & Scopes</a></li>
-                                                        <li><a href="#">Digital Cameras</a></li>
-                                                        <li><a href="#">Film Photography</a></li>
-                                                        <li><a href="#">Lighting & Studio</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li class="single-block">
-                                                    <h3 class="title">WHEEL SIMULATORS</h3>
-                                                    <ul>
-                                                        <li><a href="#">Bags & Cases</a></li>
-                                                        <li><a href="#">Binoculars & Scopes</a></li>
-                                                        <li><a href="#">Digital Cameras</a></li>
-                                                        <li><a href="#">Film Photography</a></li>
-                                                        <li><a href="#">Lighting & Studio</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li class="single-block">
-                                                    <h3 class="title">WHEEL SIMULATORS</h3>
-                                                    <ul>
-                                                        <li><a href="#">Bags & Cases</a></li>
-                                                        <li><a href="#">Binoculars & Scopes</a></li>
-                                                        <li><a href="#">Digital Cameras</a></li>
-                                                        <li><a href="#">Film Photography</a></li>
-                                                        <li><a href="#">Lighting & Studio</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li class="single-block">
-                                                    <h3 class="title">WHEEL SIMULATORS</h3>
-                                                    <ul>
-                                                        <li><a href="#">Bags & Cases</a></li>
-                                                        <li><a href="#">Binoculars & Scopes</a></li>
-                                                        <li><a href="#">Digital Cameras</a></li>
-                                                        <li><a href="#">Film Photography</a></li>
-                                                        <li><a href="#">Lighting & Studio</a></li>
-                                                    </ul>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li class="cat-item has-children"><a href="#">Business & Money</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="#">Brake Tools</a></li>
-                                                <li><a href="#">Driveshafts</a></li>
-                                                <li><a href="#">Emergency Brake</a></li>
-                                                <li><a href="#">Spools</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="cat-item has-children"><a href="#">Calendars</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="#">Brake Tools</a></li>
-                                                <li><a href="#">Driveshafts</a></li>
-                                                <li><a href="#">Emergency Brake</a></li>
-                                                <li><a href="#">Spools</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="cat-item has-children"><a href="#">Children's Books</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="#">Brake Tools</a></li>
-                                                <li><a href="#">Driveshafts</a></li>
-                                                <li><a href="#">Emergency Brake</a></li>
-                                                <li><a href="#">Spools</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="cat-item has-children"><a href="#">Comics</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="#">Brake Tools</a></li>
-                                                <li><a href="#">Driveshafts</a></li>
-                                                <li><a href="#">Emergency Brake</a></li>
-                                                <li><a href="#">Spools</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="cat-item"><a href="#">Perfomance Filters</a></li>
-                                        <li class="cat-item has-children"><a href="#">Cookbooks</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="#">Brake Tools</a></li>
-                                                <li><a href="#">Driveshafts</a></li>
-                                                <li><a href="#">Emergency Brake</a></li>
-                                                <li><a href="#">Spools</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="cat-item "><a href="#">Accessories</a></li>
+
+                                        <li class="cat-item"><a href="#">Holy Spirit and You</a></li>
+
+                                        <li class="cat-item "><a href="#">Healing</a></li>
                                         <li class="cat-item "><a href="#">Education</a></li>
-                                        <li class="cat-item hidden-menu-item"><a href="#">Indoor Living</a></li>
+                                        <li class="cat-item "><a href="#">Spiritual Growth and Maturity</a></li>
+                                        <li class="cat-item"><a href="#">Finance</a></li>
+                                        <li class="cat-item "><a href="#">Faith</a></li>
                                         <li class="cat-item"><a href="#" class="js-expand-hidden-menu">More
                                                 Categories</a></li>
+
+
                                     </ul>
                                 </div>
                             </nav>
@@ -250,104 +162,14 @@
                                             class="fa fa-bars"></i>Browse
                                         categories</a>
                                     <ul class="category-menu">
-                                        <li class="cat-item has-children">
-                                            <a href="#">Arts & Photography</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="#">Bags & Cases</a></li>
-                                                <li><a href="#">Binoculars & Scopes</a></li>
-                                                <li><a href="#">Digital Cameras</a></li>
-                                                <li><a href="#">Film Photography</a></li>
-                                                <li><a href="#">Lighting & Studio</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="cat-item has-children mega-menu"><a href="#">Biographies</a>
-                                            <ul class="sub-menu">
-                                                <li class="single-block">
-                                                    <h3 class="title">WHEEL SIMULATORS</h3>
-                                                    <ul>
-                                                        <li><a href="#">Bags & Cases</a></li>
-                                                        <li><a href="#">Binoculars & Scopes</a></li>
-                                                        <li><a href="#">Digital Cameras</a></li>
-                                                        <li><a href="#">Film Photography</a></li>
-                                                        <li><a href="#">Lighting & Studio</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li class="single-block">
-                                                    <h3 class="title">WHEEL SIMULATORS</h3>
-                                                    <ul>
-                                                        <li><a href="#">Bags & Cases</a></li>
-                                                        <li><a href="#">Binoculars & Scopes</a></li>
-                                                        <li><a href="#">Digital Cameras</a></li>
-                                                        <li><a href="#">Film Photography</a></li>
-                                                        <li><a href="#">Lighting & Studio</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li class="single-block">
-                                                    <h3 class="title">WHEEL SIMULATORS</h3>
-                                                    <ul>
-                                                        <li><a href="#">Bags & Cases</a></li>
-                                                        <li><a href="#">Binoculars & Scopes</a></li>
-                                                        <li><a href="#">Digital Cameras</a></li>
-                                                        <li><a href="#">Film Photography</a></li>
-                                                        <li><a href="#">Lighting & Studio</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li class="single-block">
-                                                    <h3 class="title">WHEEL SIMULATORS</h3>
-                                                    <ul>
-                                                        <li><a href="#">Bags & Cases</a></li>
-                                                        <li><a href="#">Binoculars & Scopes</a></li>
-                                                        <li><a href="#">Digital Cameras</a></li>
-                                                        <li><a href="#">Film Photography</a></li>
-                                                        <li><a href="#">Lighting & Studio</a></li>
-                                                    </ul>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li class="cat-item has-children"><a href="#">Business & Money</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="#">Brake Tools</a></li>
-                                                <li><a href="#">Driveshafts</a></li>
-                                                <li><a href="#">Emergency Brake</a></li>
-                                                <li><a href="#">Spools</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="cat-item has-children"><a href="#">Calendars</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="#">Brake Tools</a></li>
-                                                <li><a href="#">Driveshafts</a></li>
-                                                <li><a href="#">Emergency Brake</a></li>
-                                                <li><a href="#">Spools</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="cat-item has-children"><a href="#">Children's Books</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="#">Brake Tools</a></li>
-                                                <li><a href="#">Driveshafts</a></li>
-                                                <li><a href="#">Emergency Brake</a></li>
-                                                <li><a href="#">Spools</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="cat-item has-children"><a href="#">Comics</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="#">Brake Tools</a></li>
-                                                <li><a href="#">Driveshafts</a></li>
-                                                <li><a href="#">Emergency Brake</a></li>
-                                                <li><a href="#">Spools</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="cat-item"><a href="#">Perfomance Filters</a></li>
-                                        <li class="cat-item has-children"><a href="#">Cookbooks</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="#">Brake Tools</a></li>
-                                                <li><a href="#">Driveshafts</a></li>
-                                                <li><a href="#">Emergency Brake</a></li>
-                                                <li><a href="#">Spools</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="cat-item "><a href="#">Accessories</a></li>
+
+                                        <li class="cat-item"><a href="#">Holy Spirit and You</a></li>
+
+                                        <li class="cat-item "><a href="#">Healing</a></li>
                                         <li class="cat-item "><a href="#">Education</a></li>
-                                        <li class="cat-item hidden-menu-item"><a href="#">Indoor Living</a></li>
+                                        <li class="cat-item "><a href="#">Spiritual Growth and Maturity</a></li>
+                                        <li class="cat-item"><a href="#">Finance</a></li>
+                                        <li class="cat-item "><a href="#">Faith</a></li>
                                         <li class="cat-item"><a href="#" class="js-expand-hidden-menu">More
                                                 Categories</a></li>
                                     </ul>
@@ -358,7 +180,7 @@
                             <div class="mobile-header-btns header-top-widget">
                                 <ul class="header-links">
                                     <li class="sin-link">
-                                        <a href="cart.php" class="cart-link link-icon"><i class="ion-bag"></i></a>
+                                        <a href="#" class="cart-link link-icon"><i class="ion-bag"></i></a>
                                     </li>
                                     <li class="sin-link">
                                         <a href="javascript:" class="link-icon hamburgur-icon off-canvas-btn"><i
@@ -470,18 +292,11 @@
                                                         "slidesToShow": 1,
                                                         "dots":true
                                                         }'>
-                <div class="single-slide bg-image  bg-overlay--dark" data-bg="image/wb.jpg">
+                <div class="single-slide bg-image  bg-overlay--darks" data-bg="image/wb.jpg">
                     <div class="container">
                         <div class="home-content text-center">
                             <div class="row justify-content-end">
-                                <div class="col-lg-6">
-                                    <h1>Faith Proclaimations</h1>
-                                    <h2>A book for kids
-                                        <br>Featuring CSO</h2>
-                                    <a href="shop-grid.php" class="btn btn--yellow">
-                                        Shop Now
-                                    </a>
-                                </div>
+
                             </div>
                         </div>
                     </div>
@@ -510,6 +325,9 @@
         <section class="pt--30 section-margin">
             <h2 class="sr-only">Category Gallery Section</h2>
             <div class="container">
+                <div class="section-title section-title--bordered">
+                    <h2>Featured Categories</h2>
+                </div>
                 <div class="category-gallery-block">
                     <a href="#" class="single-block hr-large">
                         <img src="image/c1.jpg" alt="this is a category image">
@@ -537,7 +355,7 @@
         <section class="section-margin">
             <div class="container">
                 <div class="section-title section-title--bordered">
-                    <h2>ARTS & PHOTOGRAPHY BOOKS</h2>
+                    <h2>RECENTLY ADDED PRODUCTS</h2>
                 </div>
                 <div class="product-slider sb-slick-slider slider-border-single-row" data-slick-setting='{
                         "autoplay": true,
@@ -557,26 +375,26 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">5 Blessings in His name with Pastor Chris</a></h3>
+                                <h3><a href="#">5 Blessings in His name with Pastor Chris</a></h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/1banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/1banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                 class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -595,27 +413,27 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">7 Facts of higher life with Pastor Chris</a>
+                                <h3><a href="#">7 Facts of higher life with Pastor Chris</a>
                                 </h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/2banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/2banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                 class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -634,26 +452,26 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">Faith Proclamation for kids</a></h3>
+                                <h3><a href="#">Faith Proclamation for kids</a></h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/3banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/3banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                 class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -672,27 +490,27 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">Faith Proclamation with Pastor Chris</a>
+                                <h3><a href="#">Faith Proclamation with Pastor Chris</a>
                                 </h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/4banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/4banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                 class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -711,26 +529,26 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">The Lost Presence with Pastor Chris</a></h3>
+                                <h3><a href="#">The Lost Presence with Pastor Chris</a></h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/5banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/5banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                 class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -749,27 +567,27 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">5 Blessings in His name with Pastor Chris</a>
+                                <h3><a href="#">5 Blessings in His name with Pastor Chris</a>
                                 </h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/1banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/1banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                 class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -800,7 +618,7 @@
                                 <div class="promo-text-inner">
                                     <h2>Buy 3. Get Free 1.</h2>
                                     <h3>50% off for selected products in Pustok.</h3>
-                                    <a href="#" class="btn btn-outlined--red-faded">See More</a>
+
                                 </div>
                             </div>
                         </div>
@@ -834,26 +652,26 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">5 Blessings in His name with Pastor Chris</a></h3>
+                                <h3><a href="#">5 Blessings in His name with Pastor Chris</a></h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/1banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/1banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -872,27 +690,27 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">7 Facts of higher life with Pastor Chris</a>
+                                <h3><a href="#">7 Facts of higher life with Pastor Chris</a>
                                 </h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/2banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/2banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -911,26 +729,26 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">Faith Proclamation for kids</a></h3>
+                                <h3><a href="#">Faith Proclamation for kids</a></h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/3banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/3banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -949,27 +767,27 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">Faith Proclamation with Pastor Chris</a>
+                                <h3><a href="#">Faith Proclamation with Pastor Chris</a>
                                 </h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/4banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/4banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -988,26 +806,26 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">The Lost Presence with Pastor Chris</a></h3>
+                                <h3><a href="#">The Lost Presence with Pastor Chris</a></h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/5banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/5banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -1026,27 +844,27 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">5 Blessings in His name with Pastor Chris</a>
+                                <h3><a href="#">5 Blessings in His name with Pastor Chris</a>
                                 </h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/1banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/1banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -1068,7 +886,7 @@
         <section class="section-margin">
             <div class="container">
                 <div class="section-title section-title--bordered">
-                    <h2>BIOGRAPHIES BOOKS</h2>
+                    <h2>FAITH MESSAGES</h2>
                 </div>
                 <div class="product-slider sb-slick-slider slider-border-single-row" data-slick-setting='{
                         "autoplay": true,
@@ -1088,26 +906,26 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">5 Blessings in His name with Pastor Chris</a></h3>
+                                <h3><a href="#">5 Blessings in His name with Pastor Chris</a></h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/1banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/1banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -1126,27 +944,27 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">7 Facts of higher life with Pastor Chris</a>
+                                <h3><a href="#">7 Facts of higher life with Pastor Chris</a>
                                 </h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/2banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/2banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -1165,26 +983,26 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">Faith Proclamation for kids</a></h3>
+                                <h3><a href="#">Faith Proclamation for kids</a></h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/3banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/3banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -1203,27 +1021,27 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">Faith Proclamation with Pastor Chris</a>
+                                <h3><a href="#">Faith Proclamation with Pastor Chris</a>
                                 </h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/4banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/4banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -1242,26 +1060,26 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">The Lost Presence with Pastor Chris</a></h3>
+                                <h3><a href="#">The Lost Presence with Pastor Chris</a></h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/5banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/5banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -1280,27 +1098,27 @@
                                 <a href="#" class="author">
                                     Faith
                                 </a>
-                                <h3><a href="product-details.php">5 Blessings in His name with Pastor Chris</a>
+                                <h3><a href="#">5 Blessings in His name with Pastor Chris</a>
                                 </h3>
                             </div>
                             <div class="product-card--body">
                                 <div class="card-image">
                                     <img src="image/1banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="product-details.php" class="hover-image">
+                                        <a href="#" class="hover-image">
                                             <img src="image/1banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
-                                            <a href="cart.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-shopping-basket"></i>
                                             </a>
-                                            <a href="wishlist.php" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-heart"></i>
                                             </a>
-                                            <a href="compare.html" class="single-btn">
+                                            <a href="#" class="single-btn">
                                                 <i class="fas fa-random"></i>
                                             </a>
-                                            <a href="#" data-toggle="modal" data-target="#quickModal"
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
                                                class="single-btn">
                                                 <i class="fas fa-eye"></i>
                                             </a>
@@ -1316,12 +1134,483 @@
                 </div>
             </div>
         </section>
-        <!--=================================
-        Home Features Section
-    ===================================== -->
-        <!--=================================
-        Promotion Section One
-    ===================================== -->
+
+        <section class="section-margin bg-image section-padding-top section-padding"
+                 data-bg="image/bg-images/best-seller-bg.jpg">
+            <div class="container">
+                <div class="section-title section-title--bordered mb-0">
+                    <h2>Special Products</h2>
+                </div>
+                <div class="best-seller-block">
+                    <div class="row align-items-center">
+                        <div class="col-lg-5 col-md-6">
+                            <div class="author-image">
+                                <img src="image/1banner.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="col-lg-7 col-md-6">
+                            <div class="sb-slick-slider product-slider product-list-slider multiple-row slider-border-multiple-row"
+                                 data-slick-setting='{
+                                    "autoplay": false,
+                                    "autoplaySpeed": 8000,
+                                    "slidesToShow":2,
+                                    "rows":2,
+                                    "dots":true
+                                }' data-slick-responsive='[
+                                    {"breakpoint":1200, "settings": {"slidesToShow": 1} },
+                                    {"breakpoint":992, "settings": {"slidesToShow": 1} },
+                                    {"breakpoint":768, "settings": {"slidesToShow": 1} },
+                                    {"breakpoint":575, "settings": {"slidesToShow": 1} },
+                                    {"breakpoint":490, "settings": {"slidesToShow": 1} }
+                                ]'>
+                                <div class="single-slide">
+                                    <div class="product-card card-style-list">
+                                        <div class="card-image">
+                                            <img src="image/5banner.jpg" alt="">
+                                        </div>
+                                        <div class="product-card--body">
+                                            <div class="product-header">
+                                                <a href="#" class="author">
+                                                    Partnership
+                                                </a>
+                                                <h3><a href="#">Do You Really Need It? This
+                                                        Will Help You
+                                                    </a></h3>
+                                            </div>
+                                            <div class="price-block">
+                                                <span class="price">£51.20</span>
+                                                <del class="price-old">£51.20</del>
+                                                <span class="price-discount">20%</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="single-slide">
+                                    <div class="product-card card-style-list">
+                                        <div class="card-image">
+                                            <img src="image/4banner.jpg" alt="">
+                                        </div>
+                                        <div class="product-card--body">
+                                            <div class="product-header">
+                                                <a href="#" class="author">
+                                                    Healing
+                                                </a>
+                                                <h3><a href="#">Here Is Quick Cure BOOK This
+                                                        Will Help
+
+                                                    </a></h3>
+                                            </div>
+                                            <div class="price-block">
+                                                <span class="price">£51.20</span>
+                                                <del class="price-old">£51.20</del>
+                                                <span class="price-discount">20%</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="single-slide">
+                                    <div class="product-card card-style-list">
+                                        <div class="card-image">
+                                            <img src="image/3banner.jpg" alt="">
+                                        </div>
+                                        <div class="product-card--body">
+                                            <div class="product-header">
+                                                <a href="#" class="author">
+                                                    Givings
+                                                </a>
+                                                <h3><a href="#">Do You Really Need It? This
+                                                        Will Help You
+
+                                                    </a></h3>
+                                            </div>
+                                            <div class="price-block">
+                                                <span class="price">£51.20</span>
+                                                <del class="price-old">£51.20</del>
+                                                <span class="price-discount">20%</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="single-slide">
+                                    <div class="product-card card-style-list">
+                                        <div class="card-image">
+                                            <img src="image/2banner.jpg" alt="">
+                                        </div>
+                                        <div class="product-card--body">
+                                            <div class="product-header">
+                                                <a href="#" class="author">
+                                                    Faith
+                                                </a>
+                                                <h3><a href="#">Very Simple Things You
+                                                        Can Save BOOK
+
+
+
+                                                    </a>
+                                                </h3>
+                                            </div>
+                                            <div class="price-block">
+                                                <span class="price">£51.20</span>
+                                                <del class="price-old">£51.20</del>
+                                                <span class="price-discount">20%</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section-margin">
+            <div class="container">
+                <div class="section-title section-title--bordered">
+                    <h2>Giving and Tithing</h2>
+                </div>
+                <div class="product-slider sb-slick-slider slider-border-single-row" data-slick-setting='{
+                        "autoplay": true,
+                        "autoplaySpeed": 8000,
+                        "slidesToShow": 5,
+                        "dots":true
+                    }' data-slick-responsive='[
+                        {"breakpoint":1200, "settings": {"slidesToShow": 4} },
+                        {"breakpoint":992, "settings": {"slidesToShow": 3} },
+                        {"breakpoint":768, "settings": {"slidesToShow": 2} },
+                        {"breakpoint":480, "settings": {"slidesToShow": 1} },
+                        {"breakpoint":320, "settings": {"slidesToShow": 1} }
+                    ]'>
+                    <div class="single-slide">
+                        <div class="product-card">
+                            <div class="product-header">
+                                <a href="#" class="author">
+                                    Faith
+                                </a>
+                                <h3><a href="#">5 Blessings in His name with Pastor Chris</a></h3>
+                            </div>
+                            <div class="product-card--body">
+                                <div class="card-image">
+                                    <img src="image/1banner.jpg" alt="">
+                                    <div class="hover-contents">
+                                        <a href="#" class="hover-image">
+                                            <img src="image/1banner.jpg" alt="">
+                                        </a>
+                                        <div class="hover-btns">
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-shopping-basket"></i>
+                                            </a>
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-heart"></i>
+                                            </a>
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-random"></i>
+                                            </a>
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
+                                               class="single-btn">
+                                                <i class="fas fa-eye"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="price-block">
+                                    <span class="price">£51.20</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="single-slide">
+                        <div class="product-card">
+                            <div class="product-header">
+                                <a href="#" class="author">
+                                    Faith
+                                </a>
+                                <h3><a href="#">7 Facts of higher life with Pastor Chris</a>
+                                </h3>
+                            </div>
+                            <div class="product-card--body">
+                                <div class="card-image">
+                                    <img src="image/2banner.jpg" alt="">
+                                    <div class="hover-contents">
+                                        <a href="#" class="hover-image">
+                                            <img src="image/2banner.jpg" alt="">
+                                        </a>
+                                        <div class="hover-btns">
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-shopping-basket"></i>
+                                            </a>
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-heart"></i>
+                                            </a>
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-random"></i>
+                                            </a>
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
+                                               class="single-btn">
+                                                <i class="fas fa-eye"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="price-block">
+                                    <span class="price">£51.20</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="single-slide">
+                        <div class="product-card">
+                            <div class="product-header">
+                                <a href="#" class="author">
+                                    Faith
+                                </a>
+                                <h3><a href="#">Faith Proclamation for kids</a></h3>
+                            </div>
+                            <div class="product-card--body">
+                                <div class="card-image">
+                                    <img src="image/3banner.jpg" alt="">
+                                    <div class="hover-contents">
+                                        <a href="#" class="hover-image">
+                                            <img src="image/3banner.jpg" alt="">
+                                        </a>
+                                        <div class="hover-btns">
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-shopping-basket"></i>
+                                            </a>
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-heart"></i>
+                                            </a>
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-random"></i>
+                                            </a>
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
+                                               class="single-btn">
+                                                <i class="fas fa-eye"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="price-block">
+                                    <span class="price">£51.20</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="single-slide">
+                        <div class="product-card">
+                            <div class="product-header">
+                                <a href="#" class="author">
+                                    Faith
+                                </a>
+                                <h3><a href="#">Faith Proclamation with Pastor Chris</a>
+                                </h3>
+                            </div>
+                            <div class="product-card--body">
+                                <div class="card-image">
+                                    <img src="image/4banner.jpg" alt="">
+                                    <div class="hover-contents">
+                                        <a href="#" class="hover-image">
+                                            <img src="image/4banner.jpg" alt="">
+                                        </a>
+                                        <div class="hover-btns">
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-shopping-basket"></i>
+                                            </a>
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-heart"></i>
+                                            </a>
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-random"></i>
+                                            </a>
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
+                                               class="single-btn">
+                                                <i class="fas fa-eye"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="price-block">
+                                    <span class="price">£51.20</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="single-slide">
+                        <div class="product-card">
+                            <div class="product-header">
+                                <a href="#" class="author">
+                                    Faith
+                                </a>
+                                <h3><a href="#">The Lost Presence with Pastor Chris</a></h3>
+                            </div>
+                            <div class="product-card--body">
+                                <div class="card-image">
+                                    <img src="image/5banner.jpg" alt="">
+                                    <div class="hover-contents">
+                                        <a href="#" class="hover-image">
+                                            <img src="image/5banner.jpg" alt="">
+                                        </a>
+                                        <div class="hover-btns">
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-shopping-basket"></i>
+                                            </a>
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-heart"></i>
+                                            </a>
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-random"></i>
+                                            </a>
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
+                                               class="single-btn">
+                                                <i class="fas fa-eye"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="price-block">
+                                    <span class="price">£51.20</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="single-slide">
+                        <div class="product-card">
+                            <div class="product-header">
+                                <a href="#" class="author">
+                                    Faith
+                                </a>
+                                <h3><a href="#">5 Blessings in His name with Pastor Chris</a>
+                                </h3>
+                            </div>
+                            <div class="product-card--body">
+                                <div class="card-image">
+                                    <img src="image/1banner.jpg" alt="">
+                                    <div class="hover-contents">
+                                        <a href="#" class="hover-image">
+                                            <img src="image/1banner.jpg" alt="">
+                                        </a>
+                                        <div class="hover-btns">
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-shopping-basket"></i>
+                                            </a>
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-heart"></i>
+                                            </a>
+                                            <a href="#" class="single-btn">
+                                                <i class="fas fa-random"></i>
+                                            </a>
+                                            <a href="#" data-toggle="modal" data-target="#quickModal--ooo"
+                                               class="single-btn">
+                                                <i class="fas fa-eye"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="price-block">
+                                    <span class="price">£51.20</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
+
+        <section class="section-margin">
+            <div class="container">
+                <div class="section-title section-title--bordered mb-lg--60">
+                    <h2>TESTIMONIALS</h2>
+                </div>
+                <div class="sb-slick-slider testimonial-slider" data-slick-setting='{
+                "autoplay": true,
+                "autoplaySpeed": 8000,
+                "slidesToShow":3,
+                "dots":true
+            }' data-slick-responsive='[
+                {"breakpoint":1200, "settings": {"slidesToShow": 2} },
+                {"breakpoint":992, "settings": {"slidesToShow": 1} },
+                {"breakpoint":768, "settings": {"slidesToShow": 1} },
+                {"breakpoint":490, "settings": {"slidesToShow": 1} }
+            ]'>
+                    <div class="single-slide">
+                        <div class="testimonial-card">
+                            <div class="testimonial-image">
+                                <img src="image/others/client-1.png" alt="">
+                            </div>
+                            <div class="testimonial-body">
+                                <article>
+                                    <h2 class="sr-only">Testimonial Article</h2>
+                                    <p>Christianity is not a religion but the pulsating life of God in a human person</p>
+                                    <span class="d-block client-name">Rebecka Filson</span>
+                                </article>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="single-slide">
+                        <div class="testimonial-card">
+                            <div class="testimonial-image">
+                                <img src="image/others/client-2.png" alt="">
+                            </div>
+                            <div class="testimonial-body">
+                                <article>
+                                    <h2 class="sr-only">Testimonial Article</h2>
+                                    <p>Keep saying it, don't stop talking it.
+                                        The Bible says in the city of ephesus, so mightily grew the word of God and prevailed</p>
+                                    <span class="d-block client-name">Rebecka Filson</span>
+                                </article>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="single-slide">
+                        <div class="testimonial-card">
+                            <div class="testimonial-image">
+                                <img src="image/others/client-3.png" alt="">
+                            </div>
+                            <div class="testimonial-body">
+                                <article>
+                                    <h2 class="sr-only">Testimonial Article</h2>
+                                    <p>I'm what God says I am in the name of Jesus.</p>
+                                    <span class="d-block client-name">Rebecka Filson</span>
+                                </article>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="single-slide">
+                        <div class="testimonial-card">
+                            <div class="testimonial-image">
+                                <img src="image/others/client-4.png" alt="">
+                            </div>
+                            <div class="testimonial-body">
+                                <article>
+                                    <h2 class="sr-only">Testimonial Article</h2>
+                                    <p>Why are going around the world teaching the gospel, because Jesus is coming again</p>
+                                    <span class="d-block client-name">Rebecka Filson</span>
+                                </article>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="single-slide">
+                        <div class="testimonial-card">
+                            <div class="testimonial-image">
+                                <img src="image/others/client-5.png" alt="">
+                            </div>
+                            <div class="testimonial-body">
+                                <article>
+                                    <h2 class="sr-only">Testimonial Article</h2>
+                                    <p>I am set on the course I must follow, in the name of Jesus, prosperity is mine"</p>
+                                    <span class="d-block client-name">Rebecka Filson</span>
+                                </article>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
         <!--=================================
         Home Two Column Section
         <!-- Modal -->
@@ -1345,60 +1634,19 @@
               "asNavFor": ".product-slider-nav"
               }'>
                                     <div class="single-slide">
-                                        <img src="image/products/product-details-1.jpg" alt="">
+                                        <img src="image/5banner.jpg" alt="">
                                     </div>
-                                    <div class="single-slide">
-                                        <img src="image/products/product-details-2.jpg" alt="">
-                                    </div>
-                                    <div class="single-slide">
-                                        <img src="image/products/product-details-3.jpg" alt="">
-                                    </div>
-                                    <div class="single-slide">
-                                        <img src="image/products/product-details-4.jpg" alt="">
-                                    </div>
-                                    <div class="single-slide">
-                                        <img src="image/products/product-details-5.jpg" alt="">
-                                    </div>
+
                                 </div>
                                 <!-- Product Details Slider Nav -->
-                                <div class="mt--30 product-slider-nav sb-slick-slider arrow-type-two"
-                                    data-slick-setting='{
-            "infinite":true,
-              "autoplay": true,
-              "autoplaySpeed": 8000,
-              "slidesToShow": 4,
-              "arrows": true,
-              "prevArrow":{"buttonClass": "slick-prev","iconClass":"fa fa-chevron-left"},
-              "nextArrow":{"buttonClass": "slick-next","iconClass":"fa fa-chevron-right"},
-              "asNavFor": ".product-details-slider",
-              "focusOnSelect": true
-              }'>
-                                    <div class="single-slide">
-                                        <img src="image/products/product-details-1.jpg" alt="">
-                                    </div>
-                                    <div class="single-slide">
-                                        <img src="image/products/product-details-2.jpg" alt="">
-                                    </div>
-                                    <div class="single-slide">
-                                        <img src="image/products/product-details-3.jpg" alt="">
-                                    </div>
-                                    <div class="single-slide">
-                                        <img src="image/products/product-details-4.jpg" alt="">
-                                    </div>
-                                    <div class="single-slide">
-                                        <img src="image/products/product-details-5.jpg" alt="">
-                                    </div>
-                                </div>
+
                             </div>
                             <div class="col-lg-7 mt--30 mt-lg--30">
                                 <div class="product-details-info pl-lg--30 ">
-                                    <p class="tag-block">Tags: <a href="#">Movado</a>, <a href="#">Omega</a></p>
-                                    <h3 class="product-title">Beats EP Wired On-Ear Headphone-Black</h3>
+                                    <p class="tag-block">Tags: <a href="#">Teaching</a>, <a href="#">Givings</a></p>
+                                    <h3 class="product-title">The Lost Presence</h3>
                                     <ul class="list-unstyled">
-                                        <li>Ex Tax: <span class="list-value"> £60.24</span></li>
-                                        <li>Brands: <a href="#" class="list-value font-weight-bold"> Canon</a></li>
-                                        <li>Product Code: <span class="list-value"> model1</span></li>
-                                        <li>Reward Points: <span class="list-value"> 200</span></li>
+
                                         <li>Availability: <span class="list-value"> In Stock</span></li>
                                     </ul>
                                     <div class="price-block">
@@ -1411,12 +1659,10 @@
                                             <span class="fas fa-star star_on"></span>
                                             <span class="fas fa-star star_on"></span>
                                             <span class="fas fa-star star_on"></span>
-                                            <span class="fas fa-star "></span>
+                                            <span class="fas fa-star star_on"></span>
+
                                         </div>
-                                        <div class="review-widget">
-                                            <a href="#">(1 Reviews)</a> <span>|</span>
-                                            <a href="#">Write a review</a>
-                                        </div>
+
                                     </div>
                                     <article class="product-details-article">
                                         <h4 class="sr-only">Product Summery</h4>
@@ -1435,10 +1681,7 @@
                                                     class="plus-icon">+</span>Add to Cart</a>
                                         </div>
                                     </div>
-                                    <div class="compare-wishlist-row">
-                                        <a href="#" class="add-link"><i class="fas fa-heart"></i>Add to Wish List</a>
-                                        <a href="#" class="add-link"><i class="fas fa-random"></i>Add to Compare</a>
-                                    </div>
+                                   
                                 </div>
                             </div>
                         </div>
@@ -1473,7 +1716,9 @@
                 <a href="#" class="payment-block">
                     <img src="image/icon/payment.png" alt="">
                 </a>
-                <p class="copyright-text">Copyright © 2019 <a href="#" class="author">Pustok</a>. All Right Reserved.</p>
+                <p class="copyright-text">Copyright © 2019 <a href="#" class="author">LoveWorld Audio Visuals</a>. All
+                    Right
+                    Reserved.</p>
             </div>
         </div>
     </footer>
@@ -1484,5 +1729,4 @@
 </body>
 
 
-<!-- Mirrored from demo.hasthemes.com/pustok-preview/pustok/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 14 Jan 2020 20:05:10 GMT -->
 </html>

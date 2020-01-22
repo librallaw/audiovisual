@@ -2,151 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76390abd-88dc-4e32-8779-3edfb9e17d0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pustok.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact-2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/plugins.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faq.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Ionicons28b5.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Ionicons28b5.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Ionicons28b5.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Ionicons28b5.ttf.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Ionicons28b5.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Material-Design-Iconic-Fontd1f1.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Material-Design-Iconic-Fontd1f1.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Material-Design-Iconic-Fontd1f1.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fa-brands-400d41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fa-regular-400d41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fa-solid-900d41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/1banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/2banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/3banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/4banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/5banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/bg-images/best-seller-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/bg-images/home-2-slider-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/bg-images/home-2-slider-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/bg-images/home-3-slider-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/bg-images/home-3-slider-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/bg-images/home-4-slider-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/bg-images/home-4-slider-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/bg-images/home-slider-1-ai.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/bg-images/home-slider-2-ai.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/bg-images/promo-banner-contained.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/bg-images/promo-banner-full.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/bg-images/promo-banner-mid.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/bg-images/promo-banner-small-with-text.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/bg-images/promo-banner-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/bg-images/promo-banner-with-text-2--small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/bg-images/promo-banner-with-text-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/bg-images/promo-banner-with-text-big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/bg-images/promo-banner-with-text.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/c1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/c2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/c3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/c4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/c5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/icon/author-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/icon/eng-flag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/icon/germany-flag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/icon/payment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/icon/quotation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/logo--footer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/others/best-seller-author.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/others/blog-grid-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/others/blog-grid-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/others/blog-grid-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/others/blog-grid-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/others/blog-img-big-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/others/blog-img-big-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/others/blog-img-big-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/others/brand-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/others/brand-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/others/brand-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/others/brand-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/others/brand-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/others/brand-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/others/cat-gal-large.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/others/cat-gal-mid-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/others/cat-gal-mid.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/others/cat-gal-small-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/others/cat-gal-small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/others/client-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/others/client-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/others/client-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/others/client-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/others/client-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/others/home-blog-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/others/home-blog-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/others/home-side-promo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/products/cart-product-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/products/product-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/products/product-10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/products/product-11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/products/product-12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/products/product-13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/products/product-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/products/product-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/products/product-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/products/product-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/products/product-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/products/product-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/products/product-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/products/product-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/products/product-details-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/products/product-details-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/products/product-details-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/products/product-details-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/products/product-details-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/wb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/wb2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/ajax-mail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login-register.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-account.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-complete.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-details.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-grid-left-sidebar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-grid-right-sidebar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-grid.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-list-left-sidebar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-list-right-sidebar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-list.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-product.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wishlist.php" afterDir="false" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FUSProjectUsageTrigger">
     <session id="1267908521">
       <usages-collector id="statistics.lifecycle.project">
@@ -176,38 +42,54 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1537">
-              <caret line="513" column="62" lean-forward="true" selection-start-line="513" selection-start-column="62" selection-end-line="513" selection-end-column="62" />
+            <state relative-caret-position="241">
+              <caret line="1718" column="109" lean-forward="false" selection-start-line="1718" selection-start-column="109" selection-end-line="1718" selection-end-column="109" />
+              <folding>
+                <marker date="1579528695488" expanded="false" signature="92411:92418" ph="×" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../shop2/demo.hasthemes.com/pustok-preview/pustok/index-2.html">
+      <file leaf-file-name="index-2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/demo.hasthemes.com/pustok-preview/pustok/index-2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63971">
-              <caret line="3763" selection-start-line="3763" selection-end-line="3784" selection-end-column="18" />
+            <state relative-caret-position="180">
+              <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/demo.hasthemes.com/pustok-preview/pustok/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="2783" column="8" lean-forward="false" selection-start-line="2783" selection-start-column="8" selection-end-line="2955" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313684">
-              <caret line="18452" column="52" selection-start-line="18452" selection-start-column="52" selection-end-line="18452" selection-end-column="52" />
+            <state relative-caret-position="43275">
+              <caret line="21363" column="25" lean-forward="false" selection-start-line="21363" selection-start-column="25" selection-end-line="21363" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="product-details.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/product-details.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19805">
-              <caret line="1165" column="41" selection-start-line="1165" selection-start-column="41" selection-end-line="1165" selection-end-column="41" />
+            <state relative-caret-position="17475">
+              <caret line="1165" column="41" lean-forward="false" selection-start-line="1165" selection-start-column="41" selection-end-line="1165" selection-end-column="41" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -218,7 +100,17 @@
     <findStrings>
       <find>children's</find>
       <find>late</find>
+      <find>ARTS</find>
+      <find>testo</find>
+      <find>#62ab00</find>
+      <find>.php</find>
+      <find>php</find>
+      <find>best</find>
     </findStrings>
+    <replaceStrings>
+      <replace>#0236ae</replace>
+      <replace>#</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -229,6 +121,7 @@
         <option value="$PROJECT_DIR$/product-details.html" />
         <option value="$PROJECT_DIR$/blog.php" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
@@ -239,28 +132,57 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="122" />
-    <option name="width" value="1716" />
-    <option name="height" value="722" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="65" />
+    <option name="width" value="1920" />
+    <option name="height" value="960" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="ProjectPane">
         <subPane>
-          <expand>
-            <path>
-              <item name="pustok" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pustok" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="audiovisual" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="audiovisual" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="audiovisual" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="audiovisual" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -268,6 +190,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/image" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -280,6 +208,9 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -295,98 +226,150 @@
       <workItem from="1579178916519" duration="6497000" />
       <workItem from="1579265595948" duration="599000" />
       <workItem from="1579273445932" duration="3261000" />
-      <workItem from="1579277975017" duration="319000" />
+      <workItem from="1579277975017" duration="574000" />
+      <workItem from="1579399229664" duration="3238000" />
+      <workItem from="1579522142879" duration="2526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15422000" />
+    <option name="totallyTimeSpent" value="21441000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="65" width="1920" height="960" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2603834" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10364583" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32884398" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24973376" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="7" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="right" id="Database" order="0" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/block.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="88" column="16" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog.php" />
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1537">
-          <caret line="513" column="62" lean-forward="true" selection-start-line="513" selection-start-column="62" selection-end-line="513" selection-end-column="62" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1579528695488" expanded="false" signature="92411:92418" ph="×" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../shop2/demo.hasthemes.com/pustok-preview/pustok/index-2.html">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63971">
-          <caret line="3763" selection-start-line="3763" selection-end-line="3784" selection-end-column="18" />
+        <state relative-caret-position="276780">
+          <caret line="18452" column="52" lean-forward="false" selection-start-line="18452" selection-start-column="52" selection-end-line="18452" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product-details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17475">
+          <caret line="1165" column="41" lean-forward="false" selection-start-line="1165" selection-start-column="41" selection-end-line="1165" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1579528695488" expanded="false" signature="92411:92418" ph="×" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="313684">
-          <caret line="18452" column="52" selection-start-line="18452" selection-start-column="52" selection-end-line="18452" selection-end-column="52" />
+          <caret line="18452" column="52" lean-forward="false" selection-start-line="18452" selection-start-column="52" selection-end-line="18452" selection-end-column="52" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/product-details.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19805">
-          <caret line="1165" column="41" selection-start-line="1165" selection-start-column="41" selection-end-line="1165" selection-end-column="41" />
+          <caret line="1165" column="41" lean-forward="false" selection-start-line="1165" selection-start-column="41" selection-end-line="1165" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="88" column="16" lean-forward="false" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.php" />
+    <entry file="file://$PROJECT_DIR$/../shop2/demo.hasthemes.com/pustok-preview/pustok/index-2.html" />
+    <entry file="file://$PROJECT_DIR$/product-details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17475">
+          <caret line="1165" column="41" lean-forward="false" selection-start-line="1165" selection-start-column="41" selection-end-line="1165" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/websites/demo.hasthemes.com/pustok-preview/pustok/index-3.html" />
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43275">
+          <caret line="21363" column="25" lean-forward="false" selection-start-line="21363" selection-start-column="25" selection-end-line="21363" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/demo.hasthemes.com/pustok-preview/pustok/index-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/demo.hasthemes.com/pustok-preview/pustok/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="2783" column="8" lean-forward="false" selection-start-line="2783" selection-start-column="8" selection-end-line="2955" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="1718" column="109" lean-forward="false" selection-start-line="1718" selection-start-column="109" selection-end-line="1718" selection-end-column="109" />
+          <folding>
+            <marker date="1579528695488" expanded="false" signature="92411:92418" ph="×" />
+          </folding>
         </state>
       </provider>
     </entry>
