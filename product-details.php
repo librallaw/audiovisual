@@ -444,7 +444,7 @@
                                             <a href="#">Shop List</a>
                                             <ul class="sub-menu">
                                                 <li><a href="shop-list.php">Fullwidth</a></li>
-                                                <li><a href="shop-list-left-sidebar.php">left Sidebar</a></li>
+                                                <li><a href="categories_page.php">left Sidebar</a></li>
                                                 <li><a href="shop-list-right-sidebar.php">Right Sidebar</a></li>
                                             </ul>
                                         </li>
@@ -575,7 +575,7 @@
                                             <h3 class="menu-title"> <a href="javascript:void(0)">Shop List</a></h3>
                                             <ul class="mega-single-block">
                                                 <li><a href="shop-list.php">Fullwidth</a></li>
-                                                <li><a href="shop-list-left-sidebar.php">left Sidebar</a></li>
+                                                <li><a href="categories_page.php">left Sidebar</a></li>
                                                 <li><a href="shop-list-right-sidebar.php">Right Sidebar</a></li>
                                             </ul>
                                         </li>
