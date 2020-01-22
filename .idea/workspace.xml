@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="76390abd-88dc-4e32-8779-3edfb9e17d0f" name="Default Changelist" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login-register.php" afterPath="$PROJECT_DIR$/login-register.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories_page.php" afterPath="$PROJECT_DIR$/categories_page.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -81,17 +81,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="categories_page.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="categories_page.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/categories_page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+            <state relative-caret-position="375">
+              <caret line="25" column="47" lean-forward="true" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login-register.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="login-register.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/login-register.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="489">
@@ -207,8 +207,8 @@
         <option value="$PROJECT_DIR$/cart.php" />
         <option value="$PROJECT_DIR$/product-details.php" />
         <option value="$PROJECT_DIR$/shop-list-right-sidebar.php" />
-        <option value="$PROJECT_DIR$/categories_page.php" />
         <option value="$PROJECT_DIR$/login-register.php" />
+        <option value="$PROJECT_DIR$/categories_page.php" />
       </list>
     </option>
   </component>
@@ -386,7 +386,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27605000" />
+    <option name="totallyTimeSpent" value="27712000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="28" y="57" width="1920" height="960" extended-state="0" />
@@ -613,18 +613,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/categories_page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/login-register.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="489">
           <caret line="367" column="0" lean-forward="true" selection-start-line="367" selection-start-column="0" selection-end-line="367" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/categories_page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="47" lean-forward="true" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
           <folding />
         </state>
       </provider>
