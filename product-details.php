@@ -683,7 +683,7 @@
                         <!-- Product Details Slider Big Image-->
                         <div class="product-details-slider sb-slick-slider arrow-type-two">
                             <div class="single-slide">
-                                <img src="image/products/product-details-1.jpg" alt="">
+                                <img src="image/1banner.jpg" alt="">
                             </div>
 
                         </div>
@@ -811,14 +811,14 @@
                                     <a href="#" class="author">
                                         Lpple
                                     </a>
-                                    <h3><a href="product-details.php">Revolutionize Your BOOK With</a></h3>
+                                    <h3><a href="product-details.php">Revolutionize Your BOOK With the Gospel</a></h3>
                                 </div>
                                 <div class="product-card--body">
                                     <div class="card-image">
-                                        <img src="image/products/product-10.jpg" alt="">
+                                        <img src="image/2banner.jpg" alt="">
                                         <div class="hover-contents">
                                             <a href="product-details.php" class="hover-image">
-                                                <img src="image/products/product-1.jpg" alt="">
+                                                <img src="image/2banner.jpg" alt="">
                                             </a>
                                             <div class="hover-btns">
                                                 <a href="cart.php" class="single-btn">
@@ -856,10 +856,10 @@
                                 </div>
                                 <div class="product-card--body">
                                     <div class="card-image">
-                                        <img src="image/products/product-2.jpg" alt="">
+                                        <img src="image/3banner.jpg" alt="">
                                         <div class="hover-contents">
                                             <a href="product-details.php" class="hover-image">
-                                                <img src="image/products/product-1.jpg" alt="">
+                                                <img src="image/3banner.jpg" alt="">
                                             </a>
                                             <div class="hover-btns">
                                                 <a href="cart.php" class="single-btn">
@@ -896,10 +896,10 @@
                                 </div>
                                 <div class="product-card--body">
                                     <div class="card-image">
-                                        <img src="image/products/product-3.jpg" alt="">
+                                        <img src="image/4banner.jpg" alt="">
                                         <div class="hover-contents">
                                             <a href="product-details.php" class="hover-image">
-                                                <img src="image/products/product-2.jpg" alt="">
+                                                <img src="image/4banner.jpg" alt="">
                                             </a>
                                             <div class="hover-btns">
                                                 <a href="cart.php" class="single-btn">
@@ -937,10 +937,10 @@
                                 </div>
                                 <div class="product-card--body">
                                     <div class="card-image">
-                                        <img src="image/products/product-5.jpg" alt="">
+                                        <img src="image/5banner.jpg" alt="">
                                         <div class="hover-contents">
                                             <a href="product-details.php" class="hover-image">
-                                                <img src="image/products/product-4.jpg" alt="">
+                                                <img src="image/5banner.jpg" alt="">
                                             </a>
                                             <div class="hover-btns">
                                                 <a href="cart.php" class="single-btn">
@@ -977,10 +977,10 @@
                                 </div>
                                 <div class="product-card--body">
                                     <div class="card-image">
-                                        <img src="image/products/product-6.jpg" alt="">
+                                        <img src="image/3banner.jpg" alt="">
                                         <div class="hover-contents">
                                             <a href="product-details.php" class="hover-image">
-                                                <img src="image/products/product-4.jpg" alt="">
+                                                <img src="image/3banner.jpg" alt="">
                                             </a>
                                             <div class="hover-btns">
                                                 <a href="cart.php" class="single-btn">
@@ -1153,12 +1153,13 @@
     <footer class="site-footer">
         <div class="footer-bottom">
             <div class="container">
+
                 <a href="#" class="payment-block">
                     <img src="image/icon/payment.png" alt="">
                 </a>
-                <p class="copyright-text">Copyright © 2019 <a href="#" class="author">Pustok</a>. All Right Reserved.
-                    <br>
-                    Design By Pustok</p>
+                <p class="copyright-text">Copyright © 2019 <a href="#" class="author">LoveWorld Audio Visuals</a>. All
+                    Right
+                    Reserved.</p>
             </div>
         </div>
     </footer>
