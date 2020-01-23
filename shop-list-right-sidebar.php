@@ -2,7 +2,6 @@
 <html lang="zxx">
 
 
-<!-- Mirrored from demo.hasthemes.com/pustok-preview/pustok/shop-list-right-sidebar.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 14 Jan 2020 20:05:11 GMT -->
 <head>
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -1783,7 +1782,7 @@
 							<!-- Promotion Block -->
 							<div class="single-block">
 								<a href="#" class="promo-image sidebar">
-									<img src="image/others/home-side-promo.jpg" alt="">
+									<img src="image/WEC-356x473pix.jpg" alt="">
 								</a>
 							</div>
 						</div>

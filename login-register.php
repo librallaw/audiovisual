@@ -2,16 +2,15 @@
 <html lang="zxx">
 
 
-<!-- Mirrored from demo.hasthemes.com/pustok-preview/pustok/login-register.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 14 Jan 2020 20:04:58 GMT -->
 <head>
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Pustok - Book Store HTML Template</title>
+	<title>Login - LoveWord Audio Visuals </title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Use Minified Plugins Version For Fast Page Load -->
 	<link rel="stylesheet" type="text/css" media="screen" href="css/plugins.css" />
 	<link rel="stylesheet" type="text/css" media="screen" href="css/main.css" />
-	<link rel="shortcut icon" type="image/x-icon" href="image/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="image/logo.png">
 </head>
 
 <body>
@@ -367,5 +366,4 @@
 </body>
 
 
-<!-- Mirrored from demo.hasthemes.com/pustok-preview/pustok/login-register.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 14 Jan 2020 20:04:58 GMT -->
 </html>
