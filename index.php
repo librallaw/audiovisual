@@ -381,7 +381,7 @@
                                 <div class="card-image">
                                     <img src="image/1banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="#" class="hover-image">
+                                        <a href="product-details.php" class="hover-image">
                                             <img src="image/1banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
@@ -420,7 +420,7 @@
                                 <div class="card-image">
                                     <img src="image/2banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="#" class="hover-image">
+                                        <a href="product-details.php" class="hover-image">
                                             <img src="image/2banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
