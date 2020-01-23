@@ -65,20 +65,20 @@
                     <h2>Featured Categories</h2>
                 </div>
                 <div class="category-gallery-block">
-                    <a href="#" class="single-block hr-large">
+                    <a href="categories_page.php" class="single-block hr-large">
                         <img src="image/c1.jpg" alt="this is a category image">
                     </a>
                     <div class="single-block inner-block-wrapper">
-                        <a href="#" class="single-image mid-image">
+                        <a href="categories_page.php" class="single-image mid-image">
                             <img src="image/c4.jpg" alt="">
                         </a>
-                        <a href="#" class="single-image small-image">
+                        <a href="categories_page.php" class="single-image small-image">
                             <img src="image/c2.jpg" alt="">
                         </a>
-                        <a href="#" class="single-image small-image">
+                        <a href="categories_page.php" class="single-image small-image">
                             <img src="image/c3.jpg" alt="">
                         </a>
-                        <a href="#" class="single-image mid-image">
+                        <a href="categories_page.php" class="single-image mid-image">
                             <img src="image/c5.jpg" alt="">
                         </a>
                     </div>
@@ -194,7 +194,7 @@
                                 <div class="card-image">
                                     <img src="image/3banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="#" class="hover-image">
+                                        <a href="product-details.php" class="hover-image">
                                             <img src="image/3banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
@@ -233,7 +233,7 @@
                                 <div class="card-image">
                                     <img src="image/4banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="#" class="hover-image">
+                                        <a href="product-details.php" class="hover-image">
                                             <img src="image/4banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
@@ -271,7 +271,7 @@
                                 <div class="card-image">
                                     <img src="image/5banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="#" class="hover-image">
+                                        <a href="product-details.php" class="hover-image">
                                             <img src="image/5banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
@@ -310,7 +310,7 @@
                                 <div class="card-image">
                                     <img src="image/1banner.jpg" alt="">
                                     <div class="hover-contents">
-                                        <a href="#" class="hover-image">
+                                        <a href="product-details.php" class="hover-image">
                                             <img src="image/1banner.jpg" alt="">
                                         </a>
                                         <div class="hover-btns">
